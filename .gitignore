@@ -1,0 +1,7 @@
+# ignore all log files (in case there are any)
+*.log
+
+# ignore the venv folder
+venv3
+
+
